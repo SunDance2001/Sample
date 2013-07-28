@@ -1,0 +1,8 @@
+
+
+touch shanaj.md  //Creates a file
+git add shanaj.md //step to add file to git
+git commit -m "this is my first file"  // -m (message)
+
+git config --global user.email "ssllsls@yahoo.com"    (submits email)
+git config --global user.name "what ever the username"  (submits username)
